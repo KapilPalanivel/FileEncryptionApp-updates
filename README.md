@@ -1,6 +1,6 @@
-# Clavis File Encryption — downloads and updates
+# Clavis Encrypt — downloads and updates
 
-**Clavis** is a free file-encryption app for Windows 10, Windows 11 and Linux.
+**Clavis Encrypt** ("Clavis" for short) is a free file-encryption app for Windows 10, Windows 11 and Linux.
 It locks your files on your own PC with AES-256-GCM, turning your password into a
 key with Argon2id. No account, no cloud, nothing uploaded.
 
@@ -19,6 +19,6 @@ Ed25519 and verified by the app before it installs.
 
 Checksums for each release are on the [download page](https://clavisenc.com/download.html).
 
-> Clavis File Encryption (clavisenc.com) is made by Kapil Palanivel. It is not
+> Clavis Encrypt (clavisenc.com) is made by Kapil Palanivel. It is not
 > related to other apps named Clavis, such as the Clavis password manager on the
 > Microsoft Store.
