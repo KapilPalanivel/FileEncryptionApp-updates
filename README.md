@@ -19,6 +19,6 @@ Ed25519 and verified by the app before it installs.
 
 Checksums for each release are on the [download page](https://clavisenc.com/download.html).
 
-> Clavis Encrypt (clavisenc.com) is made by Kapil Palanivel. It is not
+> Clavis Encrypt (clavisenc.com) is made by Clavis Encryption. It is not
 > related to other apps named Clavis, such as the Clavis password manager on the
 > Microsoft Store.
